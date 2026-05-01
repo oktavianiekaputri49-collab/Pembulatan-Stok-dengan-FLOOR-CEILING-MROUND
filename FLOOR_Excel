@@ -1,0 +1,33 @@
+📊 Pembulatan Stok dengan FLOOR, CEILING, dan MROUND di Excel
+Deskripsi
+Proyek ini berfokus pada pengolahan data stok menggunakan Microsoft Excel dengan berbagai metode pembulatan untuk membantu pengambilan keputusan dalam pemesanan barang.
+
+Dataset
+Data terdiri dari:
+- Nama item
+- Stok yang dibutuhkan (pcs)
+- Pembulatan ke bawah (FLOOR)
+- Pembulatan ke atas (CEILING)
+- Pembulatan terdekat (MROUND)
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- Fungsi FLOOR
+- Fungsi CEILING
+- Fungsi MROUND
+
+Hasil
+- Stok dapat dibulatkan sesuai kebutuhan
+- Memudahkan perencanaan jumlah pemesanan
+- Data lebih terstruktur dan mudah dianalisis
+
+Tujuan Proyek
+- Memahami berbagai metode pembulatan di Excel
+- Melatih pengolahan data stok
+- Mendukung pengambilan keputusan sederhana
+
+Insight
+Metode pembulatan yang berbeda dapat menghasilkan keputusan yang berbeda dalam pengelolaan stok, sehingga penting memilih metode yang sesuai.
+
+Penutup
+Proyek ini merupakan latihan dalam pengolahan data persediaan menggunakan fungsi pembulatan di Excel.
